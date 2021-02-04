@@ -1,0 +1,7 @@
+D:\Univer 2\4 kurs\Lab\Lab 2\Lab-2\Server-2-1\bin\Debug\Server-2-1.exe.config
+D:\Univer 2\4 kurs\Lab\Lab 2\Lab-2\Server-2-1\bin\Debug\Server-2-1.exe
+D:\Univer 2\4 kurs\Lab\Lab 2\Lab-2\Server-2-1\bin\Debug\Server-2-1.pdb
+D:\Univer 2\4 kurs\Lab\Lab 2\Lab-2\Server-2-1\obj\Debug\Server-2-1.csprojAssemblyReference.cache
+D:\Univer 2\4 kurs\Lab\Lab 2\Lab-2\Server-2-1\obj\Debug\Server-2-1.csproj.CoreCompileInputs.cache
+D:\Univer 2\4 kurs\Lab\Lab 2\Lab-2\Server-2-1\obj\Debug\Server-2-1.exe
+D:\Univer 2\4 kurs\Lab\Lab 2\Lab-2\Server-2-1\obj\Debug\Server-2-1.pdb
